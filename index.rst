@@ -10,7 +10,7 @@ How Can I Redeem My AVG Retail Code on avg.com/retail?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_22.png
    :width: 350px
    :align: center
    :height: 100px
